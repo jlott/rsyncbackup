@@ -1,0 +1,12 @@
+/dev
+/home/user/.cache
+/lost+found
+/media
+/mnt
+/proc
+/srv
+/sys
+/tmp
+/var/cache
+/var/log
+/var/tmp
